@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    background-color: rgb(178, 171, 179);
+    color: black;
+    padding-inline: 45px;
+    border-bottom: 1px solid gray;
+}
+
+.navbar-left{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand{
+    font-size: 1.8rem;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-right{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-link{
+    color: black;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navbar-link:hover{
+    text-decoration: underline;
+}
