@@ -34,13 +34,13 @@
 
 ![WhatsApp Image 2025-01-08 at 20 30 05_f5be5614](https://github.com/user-attachments/assets/8b53be5a-949b-47f2-9aa1-50b4a95ba96e)
 
-Add Student page(Admin):
+#### Add Student page(Admin):
 
 ![WhatsApp Image 2025-01-08 at 20 30 05_58fe02d4](https://github.com/user-attachments/assets/7272590f-06c0-4efd-91b7-d1c82dc2e423)
 
 #### This is a team project of 4 members completed in the Emerging Technology Lab during the 6th semester during B.Tech in CSE.
 #### Team members of this project:
 **Dipteswar Nayak**: https://github.com/DIPTESWAR  
-**Rishav Kumar Das**: https://github.com/Rishav9399
-**Kuldeep Nayak**: https://github.com/Kuldeep-Nayak
+**Rishav Kumar Das**: https://github.com/Rishav9399  
+**Kuldeep Nayak**: https://github.com/Kuldeep-Nayak  
 **Nitesh Kumar Dalai**
