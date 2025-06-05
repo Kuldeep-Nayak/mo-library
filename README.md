@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=4sKkQ1WLHjQ
 **Dipteswar Nayak**: https://github.com/DIPTESWAR  
 **Rishav Kumar Das**: https://github.com/Rishav9399  
 **Kuldeep Nayak**: https://github.com/Kuldeep-Nayak  
-**Nitesh Kumar Dalai**
+**Nitesh Kumar Dalai** : https://www.linkedin.com/in/nitesh-kumar-394668203/
